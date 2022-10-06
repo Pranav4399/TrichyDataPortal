@@ -1,0 +1,11 @@
+.container {
+  padding: 0 2rem;
+}
+
+@media (max-width: 600px) {
+  
+}
+
+@media (prefers-color-scheme: dark) {
+  
+}

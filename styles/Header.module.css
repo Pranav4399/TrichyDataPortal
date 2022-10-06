@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    padding: 10px 0;
+    justify-content: space-between;
+    height: 10vh;
+    align-items: center;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.headerTitle {
+    margin: 0 20px;
+}
+
+.headerLinks {
+    margin: 0 20px;
+}
+
+.headerLinks a {
+    margin: 0 15px;
+}

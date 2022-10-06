@@ -1,0 +1,9 @@
+.home { 
+    height: 80vh;
+    padding: 10px 20px;
+}
+
+.description {
+    max-width: 800px;
+    text-align: justify;
+}

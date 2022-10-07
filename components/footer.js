@@ -5,7 +5,7 @@ const Footer = () => {
 
   return (
     <footer className={styles.footer}>
-        <h3>Created by Ana</h3>
+        <span>Created with <span className={styles.heart}>♡</span> by <a href='https://github.com/Pranav4399/'>ana</a></span>
     </footer>
   );
 };

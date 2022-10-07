@@ -1,0 +1,15 @@
+.facts { 
+    padding: 10px 0;
+}
+
+.collapsed {
+    display: none;
+}
+
+.expanded {
+    display: block;
+}
+
+.quickfacts {
+    margin: 10px 0;
+}

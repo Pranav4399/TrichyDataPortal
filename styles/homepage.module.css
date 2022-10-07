@@ -1,9 +1,24 @@
 .home { 
-    height: 80vh;
-    padding: 10px 20px;
+    padding: 10px 0;
 }
 
 .description {
-    max-width: 800px;
     text-align: justify;
+    display: flex;
+}
+
+.text {
+    max-width: 500px;
+}
+
+.map {
+
+}
+
+@media (max-width: 600px) {
+
+}
+
+@media (prefers-color-scheme: dark) {
+  
 }

@@ -1,0 +1,9 @@
+.row {
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .row {
+        border: none;
+    }
+}
